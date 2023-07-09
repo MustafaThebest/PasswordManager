@@ -1,4 +1,4 @@
-namespace PasswordManager
+namespace PasswordManager.Models
 {
     public class Password
     {
